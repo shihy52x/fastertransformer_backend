@@ -1,0 +1,122 @@
+[
+    {
+        "prompt": "What is the capital of France?",
+        "output": "What is the capital of France?\nThe capital of France is Paris.\nWhat is the capital of France? - The capital of France is Paris.\nWhat is the capital of France? - The capital of France is Paris. The capital of France is Paris.\nWhat is"
+    },
+    {
+        "prompt": "Explain the concept of gravity.",
+        "output": "Explain the concept of gravity.\nGravity is a force that attracts all objects with mass.\nGravity is a force that attracts all objects with mass. Gravity is a force that attracts all objects with mass.\nGravity is a force"
+    },
+    {
+        "prompt": "Who wrote the play 'Romeo and Juliet'?",
+        "output": "Who wrote the play 'Romeo and Juliet'?\nThe play 'Romeo and Juliet' was written by William Shakespeare.\nWhat is the name of the play Romeo and Juliet?\nThe play Romeo and Juliet is a tragedy written by William Shakespeare.\n"
+    },
+    {
+        "prompt": "What are the primary colors?",
+        "output": "What are the primary colors?\nThe primary colors are red, yellow and blue. These colors are the three colors that cannot be created by mixing other colors.\nWhat are the primary colors of light?\nWhat are the primary colors of light?\nWhat are the primary colors"
+    },
+    {
+        "prompt": "How do plants perform photosynthesis?",
+        "output": "How do plants perform photosynthesis?\nPhotosynthesis is the process by which plants convert light energy into chemical energy. The chemical energy is stored in the form of glucose, which is used by the plant to grow and reproduce.\nWhat is the process of photosyn"
+    },
+    {
+        "prompt": "What is the boiling point of water?",
+        "output": "What is the boiling point of water?\nThe boiling point of water is 212 degrees Fahrenheit at sea level. The boiling point of water is the temperature at which the liquid changes to a gas.\nWhat is the boiling point of water at sea level"
+    },
+    {
+        "prompt": "Tell me about the life of Albert Einstein.",
+        "output": "Tell me about the life of Albert Einstein.\nAlbert Einstein was born in Ulm, Germany, on March 14, 1879. His parents were Jewish, and he was the first of their eight children. Einstein's father was a salesman and"
+    },
+    {
+        "prompt": "Explain the process of cellular mitosis.",
+        "output": "Explain the process of cellular mitosis.\nMitosis is the process of cell division in which the nucleus divides into two identical nuclei. The cell then divides into two daughter cells.\nThe process of mitosis is divided into four phases: prophase, metaph"
+    },
+    {
+        "prompt": "Who painted the 'Mona Lisa'?",
+        "output": "Who painted the 'Mona Lisa'?\nThe \"Mona Lisa\" was painted by Leonardo da Vinci in 1503-1506. The painting is on display at the Louvre Museum in Paris.\nWhat is the name of the painting by Leon"
+    },
+    {
+        "prompt": "What are the main components of a computer?",
+        "output": "What are the main components of a computer?\nThe main components of a computer are the CPU, RAM, hard drive, motherboard, and monitor. The CPU is the central processing unit, which is the brain of the computer. The RAM is the random access memory, which is the computer"
+    },
+    {
+        "prompt": "Describe the structure of a cell.",
+        "output": "Describe the structure of a cell.\nDescribe the structure of a cell. Describe the structure of a cell.\nDescribe the structure of a cell. Describe the structure of a cell. Describe the structure of a cell. Describe the structure of a cell."
+    },
+    {
+        "prompt": "What are the major continents of the world?",
+        "output": "What are the major continents of the world?\nThe major continents of the world are Asia, Africa, North America, South America, Europe and Australia. The continents are separated by oceans.\nWhat are the names of the seven continents?\nWhat are the names of"
+    },
+    {
+        "prompt": "Explain the principles of supply and demand.",
+        "output": "Explain the principles of supply and demand.\nExplain the role of the Federal Reserve in the economy.\nExplain the role of the Federal Reserve in the economy. The Federal Reserve is the central bank of the United States. It was created in 1913 by the Federal"
+    },
+    {
+        "prompt": "Who is the current president of the United States?",
+        "output": "Who is the current president of the United States?\nThe current president of the United States is Barack Obama. He was elected in 2008 and re-elected in 2012.\nWho is the current president of the United States? - Who is the"
+    },
+    {
+        "prompt": "What are the benefits of regular exercise?",
+        "output": "What are the benefits of regular exercise?\nRegular exercise can help you to:\nreduce your risk of developing heart disease, stroke, type 2 diabetes, high blood pressure and some cancers\nimprove your mental health and wellbeing\nimprove your"
+    },
+    {
+        "prompt": "Describe the water cycle.",
+        "output": "Describe the water cycle.\nThe water cycle is the continuous movement of water from the Earth's surface to the atmosphere and back again.\nThe water cycle is the continuous movement of water from the Earth's surface to the atmosphere and back again. The water cycle is"
+    },
+    {
+        "prompt": "What are the different states of matter?",
+        "output": "What are the different states of matter?\nThe different states of matter are solid, liquid and gas. Solids are rigid and have a definite shape. Liquids are flowing and have a definite volume. Gases are invisible and have no definite shape or volume.\nWhat"
+    },
+    {
+        "prompt": "Explain the concept of renewable energy.",
+        "output": "Explain the concept of renewable energy.\nExplain the concept of renewable energy. Explain the concept of renewable energy.\nRenewable energy is energy that is collected from natural resources such as sunlight, wind, rain, tides, and geothermal"
+    },
+    {
+        "prompt": "Who discovered the theory of relativity?",
+        "output": "Who discovered the theory of relativity?\nThe theory of relativity was discovered by Albert Einstein.\nWhat is the theory of relativity?\nThe theory of relativity is a theory that states that the laws of physics are the same for all observers, regardless of their state"
+    },
+    {
+        "prompt": "What are the major organs of the human body?",
+        "output": "What are the major organs of the human body?\nThe major organs of the human body are the heart, lungs, liver, kidneys, brain, stomach, intestines, skin, eyes, ears, nose, mouth, and reproductive organs."
+    },
+    {
+        "prompt": "Tell me about the history of the Roman Empire.",
+        "output": "Tell me about the history of the Roman Empire.\nThe Roman Empire was a vast empire that lasted from 27 BC to 476 AD. It was the largest empire in the ancient world. The Roman Empire was ruled by emperors. The Roman Empire was divided"
+    },
+    {
+        "prompt": "Explain the process of digestion.",
+        "output": "Explain the process of digestion.\nDigestion is the process of breaking down food into small particles that can be absorbed into the bloodstream.\nThe digestive system is a series of organs that work together to break down food into small particles that can be absorbed"
+    },
+    {
+        "prompt": "Who is the author of 'To Kill a Mockingbird'?",
+        "output": "Who is the author of 'To Kill a Mockingbird'?\nHarper Lee is the author of the novel 'To Kill a Mockingbird'.\nWhat is the name of the author of the novel 'To Kill a Mockingbird'?\nThe author of the novel 'To Kill a Mocking"
+    },
+    {
+        "prompt": "What are the characteristics of mammals?",
+        "output": "What are the characteristics of mammals?\nMammals are warm-blooded, have hair, and nurse their young. They are also vertebrates, meaning they have a backbone.\nWhat are the characteristics of a mammal?\nWhat are the characteristics of"
+    },
+    {
+        "prompt": "Describe the major phases of the moon.",
+        "output": "Describe the major phases of the moon.\nDescribe the major phases of the moon. Describe the major phases of the moon.\nDescribe the major phases of the moon.\nDescribe the major phases of the moon. Describe the major phases of the moon. Describe"
+    },
+    {
+        "prompt": "What is the significance of the Declaration of Independence?",
+        "output": "What is the significance of the Declaration of Independence?\nThe Declaration of Independence is a document that was signed by the founding fathers of the United States of America on July 4, 1776. It was a document that declared the independence of the United States from Great"
+    },
+    {
+        "prompt": "Explain the process of photosynthesis in plants.",
+        "output": "Explain the process of photosynthesis in plants.\nPhotosynthesis is the process by which plants convert light energy into chemical energy.\nThe process of photosynthesis is a series of chemical reactions that take place in the chloroplasts of plant cells.\nThe first step"
+    },
+    {
+        "prompt": "Who wrote the play 'Hamlet'?",
+        "output": "Who wrote the play 'Hamlet'?\nWilliam Shakespeare wrote the play \"Hamlet.\" The play was first performed in 1601.\nWhat is the name of the play \"Hamlet\"?\nWhat is the name of the play \"Hamlet\""
+    },
+    {
+        "prompt": "What are the primary functions of the nervous system?",
+        "output": "What are the primary functions of the nervous system?\nThe nervous system is responsible for the transmission of information between the brain and the rest of the body. It also regulates the body's internal environment.\nWhat are the functions of the nervous system?\nWhat are the functions of"
+    },
+    {
+        "prompt": "Describe the major events of the American Civil War.",
+        "output": "Describe the major events of the American Civil War.\nDescribe the major events of the American Civil War. The American Civil War was a war between the Northern and Southern states of America. The war was fought between 1861 and 1865. The war was fought over"
+    }
+]
